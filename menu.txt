@@ -1,3 +1,5 @@
 apple
 Added 7:40
 FromMaseterCommit
+AddedFeatureBranchCommitFromFeatureBranch
+At this stage I merged AddFeature and FromMastaerCommit
